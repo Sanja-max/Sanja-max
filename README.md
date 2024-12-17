@@ -1,4 +1,7 @@
 ## Hi there 👋
+# Velkommen til min GitHub
+
+Mitt navn er Sanja og jeg har lært HTML,CSS og JS på et web-utvikling kurs
 
 <!--
 **Sanja-max/Sanja-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
